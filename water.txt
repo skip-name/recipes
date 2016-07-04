@@ -1,0 +1,9 @@
+making water
+using a water distiller
+
+take one gallon of water
+	you can use rain water or dig a well, but I recommend getting your water from the tap
+pour into distiller
+plug in distiller
+wait about six hours
+result one gallon of water
